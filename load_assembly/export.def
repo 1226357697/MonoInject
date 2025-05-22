@@ -1,0 +1,3 @@
+LIBRARY load_assembly
+EXPORTS
+  g_load_assembly @1 NONAME DATA
